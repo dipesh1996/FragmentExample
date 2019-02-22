@@ -1,0 +1,4 @@
+#Fri Feb 22 10:42:07 PST 2019
+base.0=C\:\\Users\\dipes\\AndroidStudioProjects\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
